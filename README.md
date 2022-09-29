@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chadmorelli
-- 👀 I’m interested in ...
+- 👀 I have a dachshund named Jill.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: 816-260-6700.
 
